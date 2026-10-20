@@ -1,0 +1,9 @@
+{
+  "name": "repo-docs-system",
+  "description": "Build and maintain a structured Chinese knowledge base (docs/ system) for any code repository. Generates AGENTS.md, ARCHITECTURE.md, design docs, product specs, and quality score reports.",
+  "version": "1.0.0",
+  "author": {
+    "name": "baiyue11111",
+    "email": ""
+  }
+}
